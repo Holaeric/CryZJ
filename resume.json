@@ -1,1 +1,83 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"src":"https://avatars.githubusercontent.com/u/15646325?v=4","hidden":false,"shape":"circle"},"profile":{"name":"余子健","email":"EricYu_Job@outlook.com","mobile":"16607511265","github":"","zhihu":"","workExpYear":"","positionTitle":"","workPlace":"广东省广州市"},"educationList":[{"edu_time":["2020.09.01","至今"],"school":"电子科技大学中山学院","major":"商务英语","academic_degree":"本科","dataIndex":0}],"awardList":[{"award_info":"英语 CET-6 495","award_time":"2022","dataIndex":0},{"award_info":"英语 CET-4 572","award_time":"2018.09","dataIndex":1}],"workExpList":[{"company_name":"古镇镇灯博会","department_name":"直播及采访主持","work_time":["2018.06",null],"work_desc":"●\t在一场直播中获得了1000余名观众和点赞\n●\t有序地指导了300余来自国外的国际买家的线下活动\n●\t在直播中帮助10多位买家达成交易  \n●\t采访了5位外国买家，视频在灯博会的官方Facebook上发表","dataIndex":0},{"company_name":"乐知教育","department_name":"营销实习","work_time":["2017.06","2017.12"],"work_desc":"●\t通过精准获客实现了25000元以上的销售额 \n●\t以互动的方式亲自为客户演示产品\n","dataIndex":1}],"skillList":[{"skill_name":"HTML 和 CSS","skill_desc":"","skill_level":80,"dataIndex":0},{"skill_name":"MS Office","skill_desc":"熟悉 Word、PowerPoint、Excel。","skill_level":90,"dataIndex":1},{"skill_name":"数据可视化","skill_desc":"丰富的可视化工程实践以及开源经验","skill_level":90},{"skill_name":"React / 前端工程化","skill_desc":"大型前端项目经验以及组件库开发经验","skill_level":85}],"projectList":[],"workList":[],"aboutme":{"aboutme_desc":""},"theme":{"color":"rgba(246, 189, 22, 1)","tagColor":"#8bc34a"}}
+{
+	"titleNameMap": {
+		"educationList": "教育背景",
+		"workExpList": "工作经历",
+		"projectList": "项目经历",
+		"skillList": "个人技能",
+		"awardList": "更多信息",
+		"workList": "个人作品",
+		"aboutme": "自我介绍"
+	},
+	"avatar": {
+		"src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+		"hidden": false,
+		"shape": "circle"
+	},
+	"profile": {
+		"name": "余子健",
+		"email": "EricYu_Job@outlook.com",
+		"mobile": "16607511265",
+		"github": "",
+		"zhihu": "",
+		"workExpYear": "",
+		"positionTitle": "",
+		"workPlace": "广东省广州市"
+	},
+	"educationList": [{
+		"edu_time": ["2020.09.01", "至今"],
+		"school": "电子科技大学中山学院",
+		"major": "商务英语",
+		"academic_degree": "本科",
+		"dataIndex": 0
+	}],
+	"awardList": [{
+		"award_info": "英语 CET-6 495",
+		"award_time": "2022",
+		"dataIndex": 0
+	}, {
+		"award_info": "英语 CET-4 572",
+		"award_time": "2018.09",
+		"dataIndex": 1
+	}],
+	"workExpList": [{
+		"company_name": "古镇镇灯博会",
+		"department_name": "直播及采访主持",
+		"work_time": ["2018.06", null],
+		"work_desc": "●\t在一场直播中获得了1000余名观众和点赞\n●\t有序地指导了300余来自国外的国际买家的线下活动\n●\t在直播中帮助10多位买家达成交易  \n●\t采访了5位外国买家，视频在灯博会的官方Facebook上发表",
+		"dataIndex": 0
+	}, {
+		"company_name": "乐知教育",
+		"department_name": "营销实习",
+		"work_time": ["2017.06", "2017.12"],
+		"work_desc": "●\t通过精准获客实现了25000元以上的销售额 \n●\t以互动的方式亲自为客户演示产品\n",
+		"dataIndex": 1
+	}],
+	"skillList": [{
+		"skill_name": "HTML 和 CSS",
+		"skill_desc": "",
+		"skill_level": 80,
+		"dataIndex": 0
+	}, {
+		"skill_name": "MS Office",
+		"skill_desc": "熟悉 Word、PowerPoint、Excel。",
+		"skill_level": 90,
+		"dataIndex": 1
+	}, {
+		"skill_name": "数据可视化",
+		"skill_desc": "丰富的可视化工程实践以及开源经验",
+		"skill_level": 90
+	}, {
+		"skill_name": "React / 前端工程化",
+		"skill_desc": "大型前端项目经验以及组件库开发经验",
+		"skill_level": 85
+	}],
+	"projectList": [],
+	"workList": [],
+	"aboutme": {
+		"aboutme_desc": ""
+	},
+	"theme": {
+		"color": "rgba(246, 189, 22, 1)",
+		"tagColor": "#8bc34a"
+	}
+}
