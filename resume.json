@@ -130,7 +130,7 @@
         {
             "project_name": "个人博客",
             "project_role": "开发及运营",
-            "project_desc": "基于 Github 开源项目 Nobellium。可以发布富文本内容，补偿了现有媒体平台的分享限制",
+            "project_desc": "基于 Github 开源项目 Nobellium。可以发布富文本内容，补偿了现有社交平台的分享限制",
             "project_content": "\n●\t分享思考、撰写评测",
             "dataIndex": 3
         },
