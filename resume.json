@@ -51,9 +51,14 @@
 		"work_time": ["2017.06", "2017.12"],
 		"work_desc": "●\t通过精准获客实现了25000元以上的销售额 \n●\t以互动的方式亲自为客户演示产品\n",
 		"dataIndex": 1
+	}, {
+		"work_time": ["2022.04", "至今"],
+		"company_name": "Arda 安达厨电",
+		"department_name": "销售",
+		"work_desc": "销售 Arda 品牌厨电产品。"
 	}],
 	"skillList": [{
-		"skill_name": "HTML 和 CSS",
+		"skill_name": "HTML, CSS, Vue.js",
 		"skill_desc": "",
 		"skill_level": 80,
 		"dataIndex": 0
@@ -81,11 +86,12 @@
 	}, {
 		"project_name": "律师事务所用户信息管理系统",
 		"project_role": "前端开发实习",
-		"project_desc": "面向管理人员和运维人员的的数字化决策和管理产品。提供一站式的数据化分析和摇号功能，让部门高效获取决策信息，并提升管理效率。"
+		"project_desc": "面向管理人员和运维人员的的数字化决策和管理产品。提供一站式的数据化分析和摇号功能，让部门高效获取决策信息，并提升管理效率。",
+		"project_content": "\n●\t通过精准获客实现了25000元以上的销售额 \n●\t以互动的方式亲自为客户演示产品"
 	}],
 	"workList": [],
 	"aboutme": {
-		"aboutme_desc": ""
+		"aboutme_desc": "🌱 Focus on data visualization and analysis \n😈 能力项：沟通协调能力、执行力\n自驱型前端工程师，一年半大型复杂产品开发经验，负责学校网络开发团队商业项目建设和文档编写，参与项目使用的技术包括 PHP, JavaScript, CSS, HTML, Vue.js，团队协作能力优秀，熟悉多人团队开发流程。\n运营个人博客，信息检索能力、信息整理能力、排版能力优秀；对不同的工作流有较强适应性。"
 	},
 	"theme": {
 		"color": "rgba(246, 189, 22, 1)",
