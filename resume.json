@@ -63,15 +63,26 @@
 		"skill_level": 90,
 		"dataIndex": 1
 	}, {
-		"skill_name": "数据可视化",
-		"skill_desc": "丰富的可视化工程实践以及开源经验",
-		"skill_level": 90
+		"skill_name": "Axure",
+		"skill_desc": "原型图制作",
+		"skill_level": 70,
+		"dataIndex": 2
 	}, {
 		"skill_name": "React / 前端工程化",
 		"skill_desc": "大型前端项目经验以及组件库开发经验",
 		"skill_level": 85
 	}],
-	"projectList": [],
+	"projectList": [{
+		"project_name": "全国大学生创新创业竞赛",
+		"project_role": "商业计划书编写",
+		"project_desc": "眼镜鼻托",
+		"project_content": "眼镜鼻托",
+		"dataIndex": 0
+	}, {
+		"project_name": "律师事务所用户信息管理系统",
+		"project_role": "前端开发实习",
+		"project_desc": "面向管理人员和运维人员的的数字化决策和管理产品。提供一站式的数据化分析和摇号功能，让部门高效获取决策信息，并提升管理效率。"
+	}],
 	"workList": [],
 	"aboutme": {
 		"aboutme_desc": ""
