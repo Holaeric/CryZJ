@@ -49,14 +49,24 @@
     ],
     "workExpList": [
         {
+            "work_time": [
+                "2022.04",
+                "至今"
+            ],
+            "company_name": "Arda 安德厨电",
+            "department_name": "营销实习",
+            "work_desc": "●\t在 Arda 安德品牌线下门店进行接待及销售，对目标客户进行协助与回访。",
+            "dataIndex": 0
+        },
+        {
             "company_name": "古镇镇灯博会",
-            "department_name": "直播及采访主持领队",
+            "department_name": "直播及采访主持实习",
             "work_time": [
                 "2018.06",
                 null
             ],
             "work_desc": "以”中国灯饰之都”古镇为产业依托，立足产业源头，整合灯饰照明行业的优势资源，采用展店联动的创新模式，打造超150万平方米超大规模，为照明生产企业及采购商、经销商构筑采购直接、贸易方便、超高性价比的灯饰一站式商贸平台。\n●\t采访了多名外国买家，视频在灯博会的官方Facebook上发表\n●\t在一场直播中获得了1000余名观众和点赞\n●\t有序地指导了300余来自国外的国际买家的线下活动\n●\t在直播中帮助10多位买家达成交易  ",
-            "dataIndex": 0
+            "dataIndex": 1
         },
         {
             "company_name": "乐知教育",
@@ -67,24 +77,20 @@
             ],
             "work_desc": "儿童电子鼓乐器课程销售\n●\t通过精准获客实现了25000元以上的销售额 \n●\t以互动的方式为客户演示产品\n",
             "dataIndex": 1
-        },
-        {
-            "work_time": [
-                "2022.04",
-                "至今"
-            ],
-            "company_name": "Arda 安达厨电",
-            "department_name": "营销实习",
-            "work_desc": "销售 Arda 品牌厨电产品",
-            "dataIndex": 2
         }
     ],
     "skillList": [
         {
-            "skill_name": "HTML, CSS, Vue.js",
-            "skill_desc": "",
-            "skill_level": 80,
-            "dataIndex": 0
+            "skill_name": "Axure, Notion, 飞书",
+            "skill_desc": "团队协作、跟进OKR、原型图制作",
+            "skill_level": 70,
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "Final Cut Pro, Lightroom",
+            "skill_desc": "视频剪辑、照片调色",
+            "skill_level": 85,
+            "dataIndex": 3
         },
         {
             "skill_name": "Microsoft Office",
@@ -93,49 +99,43 @@
             "dataIndex": 1
         },
         {
-            "skill_name": "Axure, Notion, 飞书",
-            "skill_desc": "团队协作、设定OKR、原型图制作",
+            "skill_name": "HTML, CSS, Vue.js",
+            "skill_desc": "",
             "skill_level": 70,
-            "dataIndex": 2
-        },
-        {
-            "skill_name": "Final Cut Pro, Lightroom",
-            "skill_desc": "视频剪辑、照片调色",
-            "skill_level": 65,
-            "dataIndex": 3
+            "dataIndex": 0
         }
     ],
     "projectList": [
         {
             "project_name": "律师事务所用户信息管理系统",
-            "project_role": "前端开发实习",
-            "project_desc": "面向管理人员和运维人员的的数字化决策和管理产品。提供一站式的数据化分析和摇号功能，让部门高效获取决策信息，并提升管理效率。",
-            "project_content": "\n●\t使用 Git 版本管理系统与团队成员合作开发 \n●\t给客户提供运维服务及实地功能演示"
+            "project_role": "前端开发",
+            "project_desc": "面向律师行业的数据管理平台。提供案件归档及分类检索、年费管理等功能。显著优化了该机构的工作效率。",
+            "project_content": "\n●\t使用 Git 版本管理系统与团队成员合作开发 \n●\t给客户提供运维服务及实地功能演示",
+            "dataIndex": 0
         },
         {
             "project_name": "中山建筑协会后台管理系统",
-            "project_role": "前端开发实习",
-            "project_desc": "面向管理人员和运维人员的的数字化决策和管理产品。提供一站式的数据化分析和摇号功能，让部门高效获取决策信息，并提升管理效率。",
-            "project_content": "\n●\t使用HTML, CSS, JavaScript, MySQL等进行功能实现"
+            "project_role": "前端开发",
+            "project_desc": "面向建筑行业从业人员的数字化决策和管理产品。提供一站式的数据化分析和摇号功能，让部门高效获取决策信息，并提升管理效率。",
+            "project_content": "\n●\t使用HTML, CSS, JavaScript, MySQL等进行功能实现",
+            "dataIndex": 1
         },
         {
-            "project_name": "外国语学院宣传片拍摄",
+            "project_name": "社区居委会选举拍摄",
             "project_role": "摄影",
-            "project_desc": "拍摄了外国语学院的宣传短片并上传到主流视频平台",
-            "project_content": "眼镜鼻托",
-            "dataIndex": 0
-        }
-    ],
-    "workList": [
+            "project_desc": "中山市石岐区成立的社区居委会换届选举。",
+            "project_content": "协助居委会完成选举活动摄影，并在活动时根据居民反馈，提供现场服务。",
+            "dataIndex": 2
+        },
         {
-            "work_name": "博客",
-            "work_desc": "基于开源项目 Nobelium ",
-            "visit_link": "https://youloved.me",
-            "dataIndex": 0
+            "project_name": "个人博客",
+            "project_role": "开发及运营",
+            "project_desc": "基于开源项目，分享想法"
         }
     ],
+    "workList": [],
     "aboutme": {
-        "aboutme_desc": "🌱 语言：英语、普通话、粤语\n😈 能力：沟通协调能力、执行力\n自驱型实习生，一年半大型复杂产品开发经验，曾负责学校网络开发团队商业项目建设和文档编写，参与项目使用的技术包括 PHP, JavaScript, CSS, HTML, Vue.js，团队协作能力优秀，熟悉多人团队开发流程。\n运营个人博客，信息检索能力、信息整理能力、排版能力优秀；对不同的工作流有较强适应性。"
+        "aboutme_desc": "🌱 语言：英语、普通话、粤语\n😈 能力：沟通协调能力、执行力\n\n自驱型实习生，英语口语流利，有主持及公开演讲经验。一年半商业产品开发经验，曾负责学校网络开发团队商业项目建设和文档编写，团队协作能力优秀，熟悉多人团队开发流程。\n运营个人博客，信息检索能力、信息整理能力、排版能力优秀；对不同的工作流有较强适应性。"
     },
     "theme": {
         "color": "rgba(246, 189, 22, 1)",
