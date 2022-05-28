@@ -43,7 +43,7 @@
 		"work_time": ["2022.04", null],
 		"company_name": "Arda 安德厨电",
 		"department_name": "营销实习",
-		"work_desc": "●\t在 Arda 安德品牌线下门店进行接待及销售，为目标客户提供服务与协助。",
+		"work_desc": "●\t在 Arda 安德线下门店进行接待及销售，为目标客户提供服务。",
 		"dataIndex": 0
 	}, {
 		"company_name": "古镇镇灯博会",
@@ -58,10 +58,10 @@
 		"work_desc": "●\t儿童电子鼓乐器课程销售\n●\t通过精准获客实现了25000元以上的销售额 \n●\t以互动的方式为客户演示产品\n",
 		"dataIndex": 2
 	}, {
-		"work_time": ["2020.06","2020.06"],
+		"work_time": ["2020.06", "2020.06"],
 		"company_name": "中山市石岐区社区居委会",
 		"department_name": "摄影",
-		"work_desc": "中山市石岐区成立的社区居委会换届选举。\n●\t协助居委会完成选举活动摄影记录，并在活动时根据居民反馈，提供现场服务。",
+		"work_desc": "●\t协助居委会完成选举活动摄影记录，并在活动时根据居民反馈，提供现场服务。",
 		"dataIndex": 3
 	}],
 	"skillList": [{
@@ -115,6 +115,6 @@
 	},
 	"theme": {
 		"color": "rgba(246, 189, 22, 1)",
-		"tagColor": "rgba(48, 191, 120, 1)"
+		"tagColor": "#8bc34a"
 	}
 }
